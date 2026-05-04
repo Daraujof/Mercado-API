@@ -18,7 +18,7 @@ API RESTful desenvolvida com Spring Boot para gerenciamento de produtos e setore
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/SEU_USUARIO/mercado-api.git
+git clone https://github.com/Daraujof/Mercado-API
 cd mercado-api
 ```
 
